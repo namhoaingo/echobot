@@ -1,0 +1,12 @@
+/Users/namngo/Documents/Line_Try/dotnetcore.samples-master/echobot/bin/Debug/netcoreapp1.0/echobot.deps.json
+/Users/namngo/Documents/Line_Try/dotnetcore.samples-master/echobot/bin/Debug/netcoreapp1.0/echobot.runtimeconfig.json
+/Users/namngo/Documents/Line_Try/dotnetcore.samples-master/echobot/bin/Debug/netcoreapp1.0/echobot.runtimeconfig.dev.json
+/Users/namngo/Documents/Line_Try/dotnetcore.samples-master/echobot/bin/Debug/netcoreapp1.0/echobot.dll
+/Users/namngo/Documents/Line_Try/dotnetcore.samples-master/echobot/bin/Debug/netcoreapp1.0/echobot.pdb
+/Users/namngo/Documents/Line_Try/dotnetcore.samples-master/echobot/obj/Debug/netcoreapp1.0/echobot.csprojResolveAssemblyReference.cache
+/Users/namngo/Documents/Line_Try/dotnetcore.samples-master/echobot/obj/Debug/netcoreapp1.0/echobot.csproj.CoreCompileInputs.cache
+/Users/namngo/Documents/Line_Try/dotnetcore.samples-master/echobot/obj/Debug/netcoreapp1.0/UserSecretsAssemblyInfo.cs
+/Users/namngo/Documents/Line_Try/dotnetcore.samples-master/echobot/obj/Debug/netcoreapp1.0/echobot.AssemblyInfoInputs.cache
+/Users/namngo/Documents/Line_Try/dotnetcore.samples-master/echobot/obj/Debug/netcoreapp1.0/echobot.AssemblyInfo.cs
+/Users/namngo/Documents/Line_Try/dotnetcore.samples-master/echobot/obj/Debug/netcoreapp1.0/echobot.dll
+/Users/namngo/Documents/Line_Try/dotnetcore.samples-master/echobot/obj/Debug/netcoreapp1.0/echobot.pdb
